@@ -10,14 +10,22 @@ as a small project, i built a full-stack ai-powered market analysis platform usi
 
 ### demo 
 
+**login Page**
 <img src="demo/login.png" width="400"/>
-<p float="left">
-  <img src="demo/user-0.png" width="250"/>
-  <img src="demo/user-1.png" width="250"/>
-  <img src="demo/user-2.png" width="250"/>
-  <img src="demo/user-3.png" width="250"/>
-  <img src="demo/user-4.png" width="250"/>
-</p>
+
+**dashboard with search**
+<img src="demo/user-0.png" width="400"/>
+
+**real-time stock data**
+<img src="demo/user-1.png" width="400"/>
+
+**analysis/investment summary**
+<img src="demo/user-2.png" width="400"/>
+<img src="demo/user-3.png" width="400"/>
+
+**saved history of past queries with supabase / postgresql**
+<img src="demo/user-4.png" width="400"/>
+
 
 
 
