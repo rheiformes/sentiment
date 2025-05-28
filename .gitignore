@@ -1,2 +1,10 @@
-#ignore this bc why is it so much
-myenv/
+
+.env*
+/node_modules 
+
+# next.js
+/.next/
+/out/
+/build
+
+
